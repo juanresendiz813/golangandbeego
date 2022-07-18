@@ -1,6 +1,6 @@
 # A Golang and BeeGo CLI template on Gitpod
 
-This is a [Golang and BeeGo CLI](https://golang.org) template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
+This is a [Golang](https://golang.org) and [BeeGo](https://beego.vip/) CLI template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
 
 ## Next Steps
 

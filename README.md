@@ -12,7 +12,7 @@ Click the button below to start a new development environment:
 
 ### A new project
 
-Click the above "Open in Gitpod" button to start a new workspace. Once you're ready to push your first code changes, Gitpod will guide you to fork this project so you own it.
+Click the above "Open in Gitpod" button to start a new workspace.
 
 ### An existing project
 

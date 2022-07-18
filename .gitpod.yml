@@ -3,6 +3,7 @@ tasks:
       cd src
       go get -u github.com/beego/beego/v2
       go get -u github.com/beego/bee/v2
+      go mod tidy
       go build
 ports:
 - port: 8080

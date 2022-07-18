@@ -7,6 +7,4 @@ tasks:
       go build
 ports:
 - port: 8080
-vscode:
-  extensions:
-    - golang.go
+

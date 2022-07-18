@@ -6,5 +6,5 @@ tasks:
       go mod tidy
       go build
 ports:
-- port: 8080
+  - port: 8080
 
